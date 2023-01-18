@@ -1,0 +1,1 @@
+export const copyObject = (referencedObject) => JSON.parse(JSON.stringify(referencedObject));
