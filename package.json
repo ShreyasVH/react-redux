@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-redux": "^8.0.5",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-redux": "^9.2.0",
     "react-scripts": "5.0.1",
-    "redux": "^4.2.0"
+    "redux": "^5.0.1"
   },
   "scripts": {
     "dev": "react-scripts start",
@@ -35,6 +35,6 @@
     ]
   },
   "devDependencies": {
-    "@redux-devtools/core": "^3.13.1"
+    "@redux-devtools/core": "^4.1.1"
   }
 }
