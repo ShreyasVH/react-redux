@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^19.3.0",
-    "react-dom": "^19.3.0",
-    "react-redux": "^9.3.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-redux": "^9.3.1",
     "react-scripts": "5.0.1",
     "redux": "^5.0.1"
   },
@@ -35,6 +35,6 @@
     ]
   },
   "devDependencies": {
-    "@redux-devtools/core": "^5.0.0"
+    "@redux-devtools/core": "^5.0.1"
   }
 }
